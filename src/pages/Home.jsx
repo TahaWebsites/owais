@@ -52,7 +52,7 @@ function Home() {
 
       {/* landing page */}
       <div
-        className="lander bg-[url('./assets/coverimg.png')] bg-cover bg-center w-[100vw] h-screen"
+       className="lander bg-[url('/coverimg.png')] bg-cover bg-center w-[100vw] h-screen"
         id="lander"
       >
         <div className="mainLanderContainer w-full h-screen bg-[rgba(0,0,0,0.5)] z-10 flex flex-col justify-center items-center">
