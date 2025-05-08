@@ -74,7 +74,7 @@ function Home() {
           <h1 className="my-[2rem]">About Me</h1>
           <div className="internalContainer2 flex flex-col lg:flex-row lg:px-40 justify-center items-center">
             <img
-              src="/src/assets/cropped_out_transparent.png"
+              src="/cropped_out_transparent.png"
               alt="crop"
               className="w-80 object-cover"
             />
@@ -234,7 +234,7 @@ function Home() {
           {/* Image */}
           <div className="img w-full md:w-1/2">
             <img
-              src="/src/assets/projImg2.jpg"
+              src="/projImg2.jpg"
               alt="snapshot"
               className="w-full border border-gray-500 rounded-lg"
             />
@@ -301,7 +301,7 @@ function Home() {
           {/* Image */}
           <div className="img w-full md:w-1/2">
             <img
-              src="/src/assets/projImg1.jpg"
+              src="/projImg1.jpg"
               alt="snapshot"
               className="w-full border border-gray-500 rounded-lg"
             />
